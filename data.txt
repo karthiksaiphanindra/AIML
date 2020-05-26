@@ -1,8 +1,4 @@
 AL&ML
-hi ra
-hola
-had lunch
-bye
 hi
-bye
+python class easy
 
