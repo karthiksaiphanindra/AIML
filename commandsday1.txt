@@ -1,0 +1,85 @@
+ 1  git --version
+    2  pwd
+    3  ls
+    4  ls-a
+    5  ls -a
+    6  clear
+    7  cd desktop
+    8  cd..
+    9  cd ..
+   10  cd desktop
+   11  cd python
+   12  cd py4e
+   13  cd py4t
+   14  assignment_02.03
+   15  cd assignment_02.03
+   16  cd
+   17  cd desktop
+   18  mkdir AI&ML
+   19  mkdir AIandML
+   20  ls
+   21  cd AIandML
+   22  touch data.txt
+   23  ls
+   24  cat data.txt
+   25  echo "AL&ML" > data.txt
+   26  cat data.txt
+   27  nano data.txt
+   28  cat data.txt
+   29  nano data.txt
+   30  cat data.txt
+   31  nano data.txt
+   32  cat data.txt
+   33  nano test.txt
+   34  cat test.txt
+   35  re test.txt
+   36  rm test.txt
+   37  mkdir hi
+   38  rmdir hi
+   39  ls
+   40  mkdir hi
+   41  ls
+   42  rmdir hi
+   43  ls
+   44  mkdir hi
+   45  rm -d hi
+   46  ls
+   47  mkdir hi
+   48  ls
+   49  rm -d hi
+   50  ls
+   51  exit
+   52  cd desktop
+   53  cd AIandMl
+   54  ls
+   55  cat data.txt
+   56  git init
+   57  git status
+   58  git add data.txt
+   59  git status
+   60  git commit _m "first commit"
+   61  git commit -m "first commit"
+   62  git config --global user.email 'karthiknano9@gmail.com'
+   63  git config --global user.name 'karthik'
+   64  git config user.email
+   65  git status
+   66  git commit -m "first commit"
+   67  git status
+   68  nano data.txt
+   69  git status
+   70  git add data.txt
+   71  git commit -m "second commit"
+   72  git log
+   73  mkdir adv
+   74  ls
+   75  git remote add adv https://github.com/karthiksaiphanindra/adv
+   76  git remote show
+   77  git remote -v
+   78  git pull avd master
+   79  git pull adv master
+   80  git push -u adv-prog
+   81  git push --set-upstream adv-prog master
+   82  git push -f --set-upstream adv master
+   83  git push --set-upstream adv master
+   84  history
+
